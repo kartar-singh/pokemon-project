@@ -1,4 +1,4 @@
-import "../App.css "
+import "./style.css"
 import { useEffect } from 'react';
 import { useState } from 'react';
 const axios = require('axios').default;
